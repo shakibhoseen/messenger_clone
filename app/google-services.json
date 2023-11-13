@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365220095491",
+    "project_id": "chatpro-a6f98",
+    "storage_bucket": "chatpro-a6f98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365220095491:android:ae4129fa04b7a75ebe1036",
+        "android_client_info": {
+          "package_name": "com.example.chatpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365220095491-otigae8ar6nvo3dasvh8lgnsdbgl89ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5OCTel7o397SB3sngb2deWtaBY681yY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365220095491-otigae8ar6nvo3dasvh8lgnsdbgl89ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
